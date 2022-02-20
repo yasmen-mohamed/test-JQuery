@@ -1,0 +1,23 @@
+#demo
+{
+    background-color: rgb(168, 167, 167);
+    width: 30px;
+    height: 5px;
+}
+#demo h1
+{
+    display: none;
+}
+#demo .col-md-4
+{
+    display: none;
+
+}
+.lead
+{
+    color: black;
+}
+#demo h2
+{
+    cursor: pointer;
+}
